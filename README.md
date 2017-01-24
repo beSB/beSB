@@ -1,2 +1,2 @@
 # beSB
-because Simple = Beautiful
+**be**cause **S**imple == **B**eautiful
