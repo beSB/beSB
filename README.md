@@ -1,2 +1,2 @@
 # beSB
-**be**cause **S**imple == **B**eautiful
+**be**cause **S**imple is **B**eautiful
